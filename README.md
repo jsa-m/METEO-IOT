@@ -8,5 +8,5 @@
 * Integrated air quality sensor in PCB.
 * Uses microcontroller ESP32-S2 to acquiere, process and send data via MQTT over WiFi.
 * Free-RTOS code coming soon!
-  
-![Meteo IoT PCB](./PCB.jpg)
+
+<img src="./PCB.jpg" alt="Meteo IoT PCB" width="500" style="transform: rotate(180deg);">
